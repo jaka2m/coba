@@ -21,7 +21,7 @@ jobs:
           node-version: '20'
 
       - name: Install Node.js dependencies
-        run: npm install
+        run: npm install --no-package-lock
 
       - name: Deploy Cloudflare Worker
         run: npx wrangler deploy
