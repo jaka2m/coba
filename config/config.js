@@ -1,5 +1,5 @@
-export const rootDomain = "destimyangel.my.id"; // Ganti dengan domain utama kalian
-export const serviceName = "mazlana";
+export const rootDomain = "freecf2025.workers.dev"; // Ganti dengan domain utama kalian
+export const serviceName = "geovpn";
 export const urldomain = "https://"+serviceName+"."+rootDomain;// Ganti dengan nama workers kalian
 export const apiKey = ""; // Ganti dengan Global API key kalian
 export const apiEmail = "xnxx@gmail.com"; // Ganti dengan email yang kalian gunakan
